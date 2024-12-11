@@ -76,7 +76,6 @@ yolo_dataset/
 ## Input Requirements
 
 - Images must be in `.jpg`, `.jpeg`, or `.png` format
-- At least 10 images required
 - Each image must have corresponding annotations
 - COCO annotations must include either segmentation or bounding box data
 - YOLO annotations must follow standard format: `<class> <x_center> <y_center> <width> <height>`
