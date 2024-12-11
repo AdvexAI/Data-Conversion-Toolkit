@@ -10,10 +10,7 @@ Convert COCO and YOLO format annotations to Advex Platform format. These utiliti
   - [Converting from YOLO Format](#converting-from-yolo-format)
 - [Input Requirements](#input-requirements)
 - [Output Format](#output-format)
-- [Testing](#testing)
 - [Common Issues](#common-issues)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
