@@ -18,7 +18,7 @@ Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/AdvexAI/Data-Conversion-Toolkit.git
-cd advex-conversion-tools
+cd Data-Conversion-Toolkit/
 pip install -r requirements.txt
 ```
 
