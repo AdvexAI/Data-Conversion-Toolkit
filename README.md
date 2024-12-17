@@ -36,7 +36,7 @@ tqdm
 ### Converting from COCO Format
 
 ```bash
-python convert_to_advex.py --format coco \
+python coco_or_yolo_to_advex.py --format coco \
                           --input-dir /path/to/images \
                           --output-dir /path/to/output \
                           --coco-json /path/to/annotations.json
@@ -55,7 +55,7 @@ input_directory/
 ### Converting from YOLO Format
 
 ```bash
-python convert_to_advex.py --format yolo \
+python coco_or_yolo_to_advex.py --format yolo \
                           --input-dir /path/to/yolo_dataset \
                           --output-dir /path/to/output
 ```
